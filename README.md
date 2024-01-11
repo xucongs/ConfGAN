@@ -1,5 +1,5 @@
 # ConfGAN 
-
+![ConfGAN](ConfGAN.gif)
 
 ## Installation
 
