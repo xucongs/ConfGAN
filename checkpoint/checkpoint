@@ -1,0 +1,2 @@
+model_checkpoint_path: "cpk"
+all_model_checkpoint_paths: "cpk"
