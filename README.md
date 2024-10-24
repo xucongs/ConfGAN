@@ -62,7 +62,7 @@ More generation options can be found in `generate.py`.
 Example: training a model for QM9 molecules.
 
 ```bash
-python main.py --train --train_dataset ./data/qm9_train.pkl --val_dataset ./data/qm8_val.pkl
+python main.py --train --train_dataset ./data/qm9_train.pkl --val_dataset ./data/qm9_val.pkl
 ```
 
 More training options can be found in `main.py`.
